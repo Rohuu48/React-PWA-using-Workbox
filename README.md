@@ -15,3 +15,5 @@
 
 ### [Workbox Caching Strategies](https://developers.google.com/web/tools/workbox/modules/workbox-strategies)
 
+
+Webpack set up from scratch. CRA not used.
